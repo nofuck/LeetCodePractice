@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution01_18 {
     int []num1;
     int []num2;
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
